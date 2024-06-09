@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "*": {
-      "maxDuration": 59 // All functions can run for a maximum of 5 seconds
-    }
-  }
-}
